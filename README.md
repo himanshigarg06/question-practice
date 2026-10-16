@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshigarg06/question-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/himanshigarg06/question-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/himanshigarg06/question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -69,9 +70,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshigarg06/question-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshigarg06/question-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshigarg06/question-practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshigarg06/question-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
