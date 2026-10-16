@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/himanshigarg06/question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
