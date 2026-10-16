@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshigarg06/question-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himanshigarg06/question-practice/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
