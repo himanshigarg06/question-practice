@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshigarg06/question-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshigarg06/question-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
