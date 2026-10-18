@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshigarg06/question-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/himanshigarg06/question-practice/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/himanshigarg06/question-practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshigarg06/question-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/himanshigarg06/question-practice/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/himanshigarg06/question-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshigarg06/question-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
