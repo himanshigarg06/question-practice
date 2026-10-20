@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/himanshigarg06/question-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
