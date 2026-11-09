@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/himanshigarg06/question-practice/tree/master/0459-repeated-substring-pattern) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/himanshigarg06/question-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/himanshigarg06/question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Queue
@@ -160,14 +161,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/himanshigarg06/question-practice/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/himanshigarg06/question-practice/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/himanshigarg06/question-practice/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
