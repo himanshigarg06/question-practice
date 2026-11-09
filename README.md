@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshigarg06/question-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshigarg06/question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/himanshigarg06/question-practice/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/himanshigarg06/question-practice/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshigarg06/question-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/himanshigarg06/question-practice/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/himanshigarg06/question-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/himanshigarg06/question-practice/tree/master/0074-search-a-2d-matrix) |
@@ -155,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/himanshigarg06/question-practice/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshigarg06/question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 ## String Matching
 |  |
 | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
