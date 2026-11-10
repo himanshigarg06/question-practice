@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshigarg06/question-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/himanshigarg06/question-practice/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/himanshigarg06/question-practice/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/himanshigarg06/question-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/himanshigarg06/question-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshigarg06/question-practice/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/himanshigarg06/question-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/himanshigarg06/question-practice/tree/master/0283-move-zeroes) |
 ## Manacher
