@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/himanshigarg06/question-practice/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/himanshigarg06/question-practice/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/himanshigarg06/question-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1859-sorting-the-sentence](https://github.com/himanshigarg06/question-practice/tree/master/1859-sorting-the-sentence) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/himanshigarg06/question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Queue
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/himanshigarg06/question-practice/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/himanshigarg06/question-practice/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
