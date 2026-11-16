@@ -205,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshigarg06/question-practice/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
