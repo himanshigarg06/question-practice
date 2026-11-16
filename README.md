@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/himanshigarg06/question-practice/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
 | [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/himanshigarg06/question-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
+| [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshigarg06/question-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
