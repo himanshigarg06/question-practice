@@ -213,12 +213,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/himanshigarg06/question-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/himanshigarg06/question-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/himanshigarg06/question-practice/tree/master/0112-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/himanshigarg06/question-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/himanshigarg06/question-practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
