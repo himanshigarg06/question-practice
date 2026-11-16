@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/himanshigarg06/question-practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshigarg06/question-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/himanshigarg06/question-practice/tree/master/0500-keyboard-row) |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
 | [1920-build-array-from-permutation](https://github.com/himanshigarg06/question-practice/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/himanshigarg06/question-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/himanshigarg06/question-practice/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshigarg06/question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -237,8 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
