@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshigarg06/question-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshigarg06/question-practice/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/himanshigarg06/question-practice/tree/master/0503-next-greater-element-ii) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/himanshigarg06/question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/himanshigarg06/question-practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/himanshigarg06/question-practice/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/himanshigarg06/question-practice/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/himanshigarg06/question-practice/tree/master/0503-next-greater-element-ii) |
 | [0546-remove-boxes](https://github.com/himanshigarg06/question-practice/tree/master/0546-remove-boxes) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshigarg06/question-practice/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/himanshigarg06/question-practice/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
