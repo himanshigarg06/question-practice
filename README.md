@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/himanshigarg06/question-practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/himanshigarg06/question-practice/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/himanshigarg06/question-practice/tree/master/0500-keyboard-row) |
+| [0546-remove-boxes](https://github.com/himanshigarg06/question-practice/tree/master/0546-remove-boxes) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshigarg06/question-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshigarg06/question-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/himanshigarg06/question-practice/tree/master/1051-height-checker) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshigarg06/question-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshigarg06/question-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshigarg06/question-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0546-remove-boxes](https://github.com/himanshigarg06/question-practice/tree/master/0546-remove-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/himanshigarg06/question-practice/tree/master/1122-relative-sort-array) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/himanshigarg06/question-practice/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
